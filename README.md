@@ -4,4 +4,4 @@ ARTEMISIA Lab's mission is to advance the frontiers of neural networks, accuracy
 Its goal is to empower the next generation of engineers and researchers to make meaningful contributions to science and technology.
 
 ARTEMISIA Lab's vision is to become a leading center of excellence in neural networks and complex systems research, recognized for contributions to the academic and scientific communities. The lab aspires to inspire and nurture talent, driving breakthroughs that will shape the future of technology and engineering. By promoting a culture of collaboration, creativity, and continuous learning, ARTEMISIA Lab aims to act as a catalyst for innovation, bridging the gap between theoretical research and real-world applications. 
-I am very happy to be one of the first members and the founder of this website for ARTEMISIA Lab.
+It is my pleasure to be one of the first members and co-founders of ARTEMISIA Lab.
